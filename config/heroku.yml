@@ -1,3 +1,0 @@
-production:
-  app: middleman-app-name
-  stack: cedar
